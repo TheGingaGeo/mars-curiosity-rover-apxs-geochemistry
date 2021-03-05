@@ -1,0 +1,5 @@
+Path and waypoint data from:
+https://mars.nasa.gov/msl/mission/where-is-the-rover/
+
+APXS wholerock geochem from:
+https://an.rsl.wustl.edu/msl/mslbrowser/an3.aspx?
