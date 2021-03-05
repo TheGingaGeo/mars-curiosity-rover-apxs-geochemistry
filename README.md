@@ -1,4 +1,4 @@
-# mars-curiosity-rover-apxs-geochemistry
+# Transposing, Concatenating & Joining APXS Geochemistry Data from the Mars Curiosity Rover
 
 Mars Curiosity Rover Geochemistry!! This was a fun little night-time project inspired by a LinkedIn post from Kyle Eastman on Curiosity Rover APXS data. You can find the ioGAS file in this GitHub repo as well as the raw APXS data and the Python code I wrote to transpose and compile APSX geochemistry csv files. You'll also find the waypoints used from the Curiosity Rover to join the APXS geochemistry by sol (days on Mars). The Python code contains a docstring outling the input and output plus inline comments to walk through the methodology of the code.
 
